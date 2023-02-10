@@ -1,0 +1,15 @@
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.csproj.AssemblyReference.cache
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.AssemblyInfoInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.AssemblyInfo.cs
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\bin\Debug\net6.0\CirclesLab.exe
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\bin\Debug\net6.0\CirclesLab.deps.json
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\bin\Debug\net6.0\CirclesLab.runtimeconfig.json
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\bin\Debug\net6.0\CirclesLab.dll
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\bin\Debug\net6.0\CirclesLab.pdb
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.dll
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\refint\CirclesLab.dll
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.pdb
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\CirclesLab.genruntimeconfig.cache
+C:\Users\Nicholas\source\repos\Grand circus\CirclesLab1\CirclesLab\obj\Debug\net6.0\ref\CirclesLab.dll
